@@ -9,7 +9,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="leo.20180827201556.1"><vh>@settings</vh>
+<v t="leo.20180827201556.1" a="E"><vh>@settings</vh>
 <v t="leo.20180827201556.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="leo.20180827201556.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
@@ -24,7 +24,7 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
@@ -37,6 +37,18 @@
 <v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
+</v>
+<v t="leo.20190106165140.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20190106165140.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190106165231.1"><vh>快捷鍵</vh>
+<v t="leo.20190106165231.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190106165234.1"><vh>快捷鍵</vh>
+<v t="leo.20190106165234.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190106165240.1"><vh>快捷鍵</vh>
+<v t="leo.20190106165240.2"><vh>投影片快捷鍵</vh></v>
 </v>
 </v>
 </v>
@@ -129,11 +141,12 @@ vertical: body pane on the botton</t>
 ### 虎科大車輛工程系
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [ag10 ](https://github.com/vecp2018/finalproject-ag10)
 &lt;/small&gt;
 
-[2018 Fall 分組網誌](./../blog/index.html)
+[2018 Fall vecp ag10 網站](https://vecp2018.github.io/finalproject-ag10/content/index.html)
 
+[2018 Fall vecp ag10 倉儲](https://github.com/vecp2018/finalproject-ag10)
 
 </t>
 <t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
@@ -144,6 +157,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 
 						
+
 </t>
 <t tx="leo.20180827201621.12"># 投影片快捷鍵
 
@@ -246,7 +260,7 @@ make.start()
 <t tx="leo.20180827201621.5">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
-2018 Fall 分組網際簡報
+2018 Fall ag10 網際簡報
 &lt;/title&gt;
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -325,6 +339,91 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20190106165140.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+
+</t>
+<t tx="leo.20190106165140.2"># 組員
+ 
+40428424 [李顏廷](https://vecp2018.github.io/site-40428424/content/index.html)  (期中自評:65)
+
+40428438 [張元钰](https://vecp2018.github.io/site-40428438/content/index.html) (期中自評:70)
+
+40428458 [林言軒](https://vecp2018.github.io/site-40428458/content/index.html) (期中自評:80)
+
+40428460 [張詠瑄](https://vecp2018.github.io/site-40428460/content/index.html) (期中自評:86)
+
+40428415 [張哲愷](https://vecp2018.github.io/site-40428415/content/index.html) (期中自評:83)
+
+404284 [周金生]
+
+</t>
+<t tx="leo.20190106165231.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+
+</t>
+<t tx="leo.20190106165231.2"># 投影片快捷鍵
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
+<t tx="leo.20190106165234.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+
+</t>
+<t tx="leo.20190106165234.2"># 投影片快捷鍵
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
+<t tx="leo.20190106165240.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+
+</t>
+<t tx="leo.20190106165240.2"># 投影片快捷鍵
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
 </t>
 </tnodes>
 </leo_file>
