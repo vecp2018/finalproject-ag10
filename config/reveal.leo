@@ -38,17 +38,47 @@
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20190106165140.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20190106165140.1"><vh>1</vh>
 <v t="leo.20190106165140.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20190106165231.1"><vh>快捷鍵</vh>
+<v t="leo.20190106165231.1"><vh>2</vh>
 <v t="leo.20190106165231.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20190106165234.1"><vh>快捷鍵</vh>
+<v t="leo.20190106165234.1"><vh>3</vh>
 <v t="leo.20190106165234.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20190106165240.1"><vh>快捷鍵</vh>
-<v t="leo.20190106165240.2"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20190106180559.1"><vh>4</vh>
+<v t="leo.20190106180559.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190106180658.1"><vh>5</vh>
+<v t="leo.20190106180658.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190106180700.1"><vh>6</vh>
+<v t="leo.20190106180700.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190106181346.1"><vh>7</vh>
+<v t="leo.20190106181346.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190106181349.1"><vh>林言軒</vh>
+<v t="leo.20190106181349.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190106181351.1"><vh>張元鈺</vh>
+<v t="leo.20190106181351.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190106181353.1"><vh>張哲愷</vh>
+<v t="leo.20190106181353.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190106181442.1"><vh>張詠瑄</vh>
+<v t="leo.20190106181442.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190106181444.1"><vh>李顏廷</vh>
+<v t="leo.20190106181444.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190106181448.1"><vh>周金生</vh>
+<v t="leo.20190106181448.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190106181809.1" a="E"><vh>結尾</vh>
+<v t="leo.20190106181809.2"><vh>投影片快捷鍵</vh></v>
 </v>
 </v>
 </v>
@@ -375,15 +405,9 @@ make.start()
 						
 
 </t>
-<t tx="leo.20190106165231.2"># 投影片快捷鍵
+<t tx="leo.20190106165231.2">說明如何開始進行分組協同程式開發
 
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
+&lt;iframe width="560" height="314" src="https://www.youtube.com/embed/9ged3Ndra6s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20190106165234.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -395,17 +419,12 @@ make.start()
 						
 
 </t>
-<t tx="leo.20190106165234.2"># 投影片快捷鍵
+<t tx="leo.20190106165234.2">說明如何編寫網際英英單字查詢服務
 
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+&lt;iframe width="560" height="314" src="https://www.youtube.com/embed/9RMXy4fqYzk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
-<t tx="leo.20190106165240.1">&lt;section data-markdown&gt;
+<t tx="leo.20190106180559.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -415,14 +434,135 @@ make.start()
 						
 
 </t>
-<t tx="leo.20190106165240.2"># 投影片快捷鍵
+<t tx="leo.20190106180559.2">說明如何利用 python-course 倉儲建立各分組的網際程式環境1
 
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/e0ENWI5Fis0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20190106180658.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+
+</t>
+<t tx="leo.20190106180658.2">說明如何利用 python-course 倉儲建立各分組的網際程式環境2
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/JynMM7aC9nY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190106180700.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+
+</t>
+<t tx="leo.20190106180700.2">說明如何利用 python-course 倉儲建立各分組的網際程式環境3
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/xa32J0ewtEQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190106181346.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+
+</t>
+<t tx="leo.20190106181346.2"># 期末心得影片</t>
+<t tx="leo.20190106181349.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+
+</t>
+<t tx="leo.20190106181349.2">林言軒40428458 期末影片
+
+&lt;iframe width="560" height="314" src="https://www.youtube.com/embed/rt9LQmp2wQk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190106181351.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+
+</t>
+<t tx="leo.20190106181351.2">張元鈺 40428438  期末影片
+
+&lt;iframe width="560" height="314" src="https://www.youtube.com/embed/iRfPRRzykuk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190106181353.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+
+</t>
+<t tx="leo.20190106181353.2">張哲愷 40428415  期末影片
+
+&lt;iframe width="560" height="314" src="https://www.youtube.com/embed/iFdknwX6EMw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190106181442.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+
+</t>
+<t tx="leo.20190106181442.2">張詠瑄 40428460  期末影片
+
+&lt;iframe width="560" height="314" src="https://www.youtube.com/embed/LtklUz1pDpY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190106181444.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+
+</t>
+<t tx="leo.20190106181444.2">李顏廷 40428424   期末影片
+
+&lt;iframe width="560" height="314" src="https://www.youtube.com/embed/a8Bt2ajQjCk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190106181448.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+
+</t>
+<t tx="leo.20190106181448.2">周金生</t>
+<t tx="leo.20190106181809.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+
+</t>
+<t tx="leo.20190106181809.2"># 期末心得
 
 </t>
 </tnodes>
