@@ -71,11 +71,11 @@
 <v t="leo.20190106181346.1" a="E"><vh>7</vh>
 <v t="leo.20190106181346.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20190106181349.1"><vh>林言軒</vh>
-<v t="leo.20190106181349.2"><vh>投影片快捷鍵</vh></v>
-</v>
-<v t="leo.20190106181351.1"><vh>張元鈺</vh>
+<v t="leo.20190106181351.1" a="E"><vh>張元鈺</vh>
 <v t="leo.20190106181351.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190106181349.1" a="E"><vh>林言軒</vh>
+<v t="leo.20190106181349.2"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20190106181353.1"><vh>張哲愷</vh>
 <v t="leo.20190106181353.2"><vh>投影片快捷鍵</vh></v>
@@ -435,8 +435,7 @@ make.start()
 </t>
 <t tx="leo.20190106181349.2">林言軒40428458 期末影片
 
-&lt;iframe width="560" height="314" src="https://www.youtube.com/embed/rt9LQmp2wQk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/xADx_yoZ70A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20190106181351.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
