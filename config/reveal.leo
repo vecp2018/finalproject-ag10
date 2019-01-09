@@ -41,25 +41,37 @@
 <v t="leo.20190106165140.1"><vh>1</vh>
 <v t="leo.20190106165140.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20190106165231.1"><vh>2</vh>
-<v t="leo.20190106165231.2"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20190110012435.1" a="E"><vh>每週學習記錄</vh>
+<v t="leo.20190110012435.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20190106165234.1"><vh>3</vh>
-<v t="leo.20190106165234.2"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20190110012549.1" a="E"><vh>w1-2</vh>
+<v t="leo.20190110012549.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20190106180559.1"><vh>4</vh>
-<v t="leo.20190106180559.2"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20190110012550.1" a="E"><vh>w3</vh>
+<v t="leo.20190110012550.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20190106180658.1"><vh>5</vh>
-<v t="leo.20190106180658.2"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20190110012558.1" a="E"><vh>w4</vh>
+<v t="leo.20190110012558.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20190106180700.1"><vh>6</vh>
-<v t="leo.20190106180700.2"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20190110012600.1" a="E"><vh>w6</vh>
+<v t="leo.20190110012600.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20190106181346.1"><vh>7</vh>
+<v t="leo.20190110012439.1" a="E"><vh>w7-8</vh>
+<v t="leo.20190110012439.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190110012440.1" a="E"><vh>w9-10</vh>
+<v t="leo.20190110012440.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190110012442.1"><vh>w11-13</vh>
+<v t="leo.20190110012442.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190110013104.1" a="E"><vh>w14</vh>
+<v t="leo.20190110013104.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190106181346.1" a="E"><vh>7</vh>
 <v t="leo.20190106181346.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20190106181349.1" a="E"><vh>林言軒</vh>
+<v t="leo.20190106181349.1"><vh>林言軒</vh>
 <v t="leo.20190106181349.2"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20190106181351.1"><vh>張元鈺</vh>
@@ -68,19 +80,19 @@
 <v t="leo.20190106181353.1"><vh>張哲愷</vh>
 <v t="leo.20190106181353.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20190106181442.1" a="E"><vh>張詠瑄</vh>
+<v t="leo.20190106181442.1"><vh>張詠瑄</vh>
 <v t="leo.20190106181442.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20190106181444.1" a="E"><vh>李顏廷</vh>
+<v t="leo.20190106181444.1"><vh>李顏廷</vh>
 <v t="leo.20190106181444.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20190106181448.1" a="E"><vh>周金生</vh>
+<v t="leo.20190106181448.1"><vh>周金生</vh>
 <v t="leo.20190106181448.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20190106181809.1" a="E"><vh>結尾</vh>
+<v t="leo.20190106181809.1"><vh>結尾</vh>
 <v t="leo.20190106181809.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20190106183155.1" a="E"><vh>結尾</vh>
+<v t="leo.20190106183155.1"><vh>結尾</vh>
 <v t="leo.20190106183155.2"><vh>投影片快捷鍵</vh></v>
 </v>
 </v>
@@ -398,80 +410,6 @@ make.start()
 404284 [周金生]
 
 </t>
-<t tx="leo.20190106165231.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-
-</t>
-<t tx="leo.20190106165231.2">說明如何開始進行分組協同程式開發
-
-&lt;iframe width="560" height="314" src="https://www.youtube.com/embed/9ged3Ndra6s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-</t>
-<t tx="leo.20190106165234.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-
-</t>
-<t tx="leo.20190106165234.2">說明如何編寫網際英英單字查詢服務
-
-&lt;iframe width="560" height="314" src="https://www.youtube.com/embed/9RMXy4fqYzk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
-</t>
-<t tx="leo.20190106180559.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-
-</t>
-<t tx="leo.20190106180559.2">說明如何利用 python-course 倉儲建立各分組的網際程式環境1
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/e0ENWI5Fis0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
-</t>
-<t tx="leo.20190106180658.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-
-</t>
-<t tx="leo.20190106180658.2">說明如何利用 python-course 倉儲建立各分組的網際程式環境2
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/JynMM7aC9nY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
-</t>
-<t tx="leo.20190106180700.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-
-</t>
-<t tx="leo.20190106180700.2">說明如何利用 python-course 倉儲建立各分組的網際程式環境3
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/xa32J0ewtEQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
-</t>
 <t tx="leo.20190106181346.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -616,9 +554,115 @@ make.start()
 </t>
 <t tx="leo.20190106183155.2"># 期末心得
 
+學期末將至，說實話計算機程式並不是我們的強項，所以我們從期中至期末一路走來並不輕鬆，我們組遇到了許多問題，每每都讓我們想破頭腦，但我們都一一的去克服，所以我們問了很多人（甚至有不認識的）就為了解決眼前的困難，感謝所有被我們這組問到的同學以及老師的教導，這堂課讓我們每個組員都受益良多。
 
 
+</t>
+<t tx="leo.20190110012435.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
+
+						
+
+</t>
+<t tx="leo.20190110012435.2"># 每週學習記錄</t>
+<t tx="leo.20190110012439.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+
+</t>
+<t tx="leo.20190110012439.2">&lt;img style="-webkit-user-select: none;" src="https://scontent.fkhh1-2.fna.fbcdn.net/v/t1.0-9/50257621_2098391433806905_4203063529965617152_o.jpg?_nc_cat=107&amp;amp;_nc_ht=scontent.fkhh1-2.fna&amp;amp;oh=342a3e0a7154ec94a5bd572578e3315e&amp;amp;oe=5CC91571"&gt;
+
+</t>
+<t tx="leo.20190110012440.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+
+</t>
+<t tx="leo.20190110012440.2">&lt;img style="-webkit-user-select: none;" src="https://scontent.fkhh1-2.fna.fbcdn.net/v/t1.0-9/50230627_2098391453806903_6989328975180857344_n.jpg?_nc_cat=109&amp;amp;_nc_ht=scontent.fkhh1-2.fna&amp;amp;oh=1b9ba3d6ce004c299ba98d1282ac76df&amp;amp;oe=5C8C5653"&gt;
+
+</t>
+<t tx="leo.20190110012442.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+
+</t>
+<t tx="leo.20190110012442.2">&lt;img style="-webkit-user-select: none;" src="https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/50075744_2098391480473567_5347951998324965376_n.jpg?_nc_cat=105&amp;amp;_nc_ht=scontent.fkhh1-1.fna&amp;amp;oh=aeb4c8f65f8b4a69cc6d77b255b4afa1&amp;amp;oe=5CCD05A0"&gt;
+
+</t>
+<t tx="leo.20190110012549.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+
+</t>
+<t tx="leo.20190110012549.2">&lt;img style="-webkit-user-select: none;" src="https://scontent.fkhh1-2.fna.fbcdn.net/v/t1.0-9/49415693_2098391393806909_6674837730167357440_n.jpg?_nc_cat=107&amp;amp;_nc_ht=scontent.fkhh1-2.fna&amp;amp;oh=33ba17306829953ca489bb8636ed9641&amp;amp;oe=5CD3FE3F"&gt;</t>
+<t tx="leo.20190110012550.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+
+</t>
+<t tx="leo.20190110012550.2">&lt;img style="-webkit-user-select: none;" src="https://scontent.fkhh1-2.fna.fbcdn.net/v/t1.0-9/49822911_2098391417140240_2936933619513425920_o.jpg?_nc_cat=111&amp;amp;_nc_ht=scontent.fkhh1-2.fna&amp;amp;oh=8ef4544f6f908a4750084f56b9a89840&amp;amp;oe=5CC7FDCD"&gt;</t>
+<t tx="leo.20190110012558.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+
+</t>
+<t tx="leo.20190110012558.2">&lt;img style="-webkit-user-select: none;" src="https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/49864931_2098391397140242_5789661450251272192_o.jpg?_nc_cat=100&amp;amp;_nc_ht=scontent.fkhh1-1.fna&amp;amp;oh=61351ca39f8c4b7bf0c05b59faca4c72&amp;amp;oe=5CC4980A"&gt;</t>
+<t tx="leo.20190110012600.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+
+</t>
+<t tx="leo.20190110012600.2">&lt;img style="-webkit-user-select: none;" src="https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/49938910_2098391440473571_1000195177685450752_o.jpg?_nc_cat=102&amp;amp;_nc_ht=scontent.fkhh1-1.fna&amp;amp;oh=fd47b364033e788186b155b0fc43b6ca&amp;amp;oe=5CBFCB6D"&gt;</t>
+<t tx="leo.20190110013104.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+
+</t>
+<t tx="leo.20190110013104.2">&lt;img style="-webkit-user-select: none;" src="https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/50100547_2098391493806899_7407171555836297216_o.jpg?_nc_cat=102&amp;amp;_nc_ht=scontent.fkhh1-1.fna&amp;amp;oh=1132553107f29b1f4eeeffde66e025cf&amp;amp;oe=5C8D3D77"&gt;
 </t>
 </tnodes>
 </leo_file>
